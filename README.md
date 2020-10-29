@@ -20,7 +20,8 @@ Filename: covid-19-dataset-Jan-1-Apr-30.tsv
 | 1  | Label                      |  866527 non-null | string  |
 | 2  | Probability of Irrelevance |  866527 non-null | float64 |
 | 3  | Probability of Relevance   |  866527 non-null | float64 |
-| 4  | Dominant Topic             |  689977 non-null | float64 |
-| 5  | Topic Contribution         |  689977 non-null | float64 |
-| 6  | Topic Keywords             |  689977 non-null | string  |
+| 4  | Topic Number               |  689977 non-null | float64 |
+| 5  | Dominant Topic             |  689977 non-null | float64 |
+| 6  | Topic Contribution         |  689977 non-null | float64 |
+| 7  | Topic Keywords             |  689977 non-null | string  |
 
