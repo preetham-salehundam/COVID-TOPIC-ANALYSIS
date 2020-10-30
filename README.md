@@ -1,10 +1,5 @@
 # COVID-19 Twitter Dataset
 
-
-**THIS REPO NEEDS GIT LFS TO BE INSTALLED TO PULL THE DATASETS**
-
-Please refer https://git-lfs.github.com for installation details
-
 Contents of this repository
 -----------------------------
 This repo contains the datasets used in the study **"Leveraging Natural Language Processing to Mine Issues on Twitter During the COVID-19 Pandemic"**.
