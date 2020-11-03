@@ -11,6 +11,7 @@ Citation
 
 If you use the COVID-19 Dataset, or any of its components please cite the following publication:
 https://arxiv.org/pdf/2011.00377.pdf
+
 Bibtex:
 @misc{agarwal2020leveraging,
       title={Leveraging Natural Language Processing to Mine Issues on Twitter During the COVID-19 Pandemic}, 
